@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Here you can change the name of the app -->
+    <string name="app_name">Soundboard</string>
+
+    <!-- Fill this string-array "list" with the names for your buttons -->
+    <string-array name="soundNames">
+        <item>Dangerzone</item>
+        <item>Airhorn</item>
+        <item>Bing Bong</item>
+    </string-array>
+
+    <!-- Text/Names for all popupmenu actions -->
+    <string name="action_send">Share</string>
+    <string name="action_ringtone">Save as ...</string>
+
+</resources>
